@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
         updateLivesDisplay();
         alert('Try again!');
       }
-  
+
       cardsChosen = [];
       cardsChosenId = [];
       resultDisplay.textContent = ` ${cardsWon.length}`;
